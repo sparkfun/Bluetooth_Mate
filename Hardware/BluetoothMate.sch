@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="15" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="14" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="12" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="6" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="12" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="11" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,16 +53,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -6221,16 +6221,16 @@ Standard 8.5x11 US Letter frame</description>
 </classes>
 <parts>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device=""/>
-<part name="C4" library="SparkFun" deviceset="CAP" device="0402-CAP" value="1uF"/>
+<part name="C4" library="SparkFun" deviceset="CAP" device="0603-CAP" value="1uF"/>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
 <part name="GND3" library="SparkFun" deviceset="GND" device=""/>
 <part name="P+2" library="SparkFun" deviceset="VCC" device="" value="3.3V"/>
 <part name="U3" library="SparkFun" deviceset="V_REG_LDO" device="SMD"/>
-<part name="R1" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="330"/>
+<part name="R1" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="330"/>
 <part name="U$1" library="SparkFun" deviceset="LOGO-SFE" device="NEW"/>
 <part name="Q2" library="SparkFun" deviceset="MOSFET-NCHANNEL" device="SMD"/>
-<part name="R7" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="10K"/>
-<part name="R8" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="10K"/>
+<part name="R7" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="10K"/>
+<part name="R8" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="10K"/>
 <part name="P+7" library="SparkFun" deviceset="VCC" device="" value="3.3V"/>
 <part name="P+8" library="SparkFun" deviceset="VCC" device=""/>
 <part name="GND2" library="SparkFun" deviceset="GND" device=""/>
@@ -6238,22 +6238,22 @@ Standard 8.5x11 US Letter frame</description>
 <part name="C1" library="SparkFun" deviceset="CAP_POL" device="1206" value="10uF"/>
 <part name="C3" library="SparkFun" deviceset="CAP_POL" device="1206" value="10uF"/>
 <part name="GND5" library="SparkFun" deviceset="GND" device=""/>
-<part name="R2" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="10K"/>
+<part name="R2" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="10K"/>
 <part name="Q1" library="SparkFun" deviceset="MOSFET-NCHANNEL" device="SMD"/>
-<part name="R3" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="10K"/>
-<part name="R4" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="10K"/>
+<part name="R3" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="10K"/>
+<part name="R4" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="10K"/>
 <part name="P+1" library="SparkFun" deviceset="VCC" device="" value="3.3V"/>
 <part name="P+4" library="SparkFun" deviceset="VCC" device=""/>
-<part name="R5" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="10K"/>
+<part name="R5" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="10K"/>
 <part name="P+5" library="SparkFun" deviceset="VCC" device="" value="3.3V"/>
 <part name="GND6" library="SparkFun" deviceset="GND" device=""/>
 <part name="D2" library="SparkFun" deviceset="LED" device="0603" value="Green"/>
-<part name="R6" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="330"/>
+<part name="R6" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="330"/>
 <part name="SJ1" library="SparkFun" deviceset="SOLDERJUMPER" device="NO"/>
 <part name="U1" library="SparkFun-RF" deviceset="BLUETOOTH-RN41" device="&quot;" value="BLUETOOTH-RN41"/>
 <part name="GND7" library="SparkFun" deviceset="GND" device=""/>
 <part name="D1" library="SparkFun" deviceset="LED" device="0603" value="Red"/>
-<part name="R9" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="10K"/>
+<part name="R9" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="10K"/>
 <part name="GND8" library="SparkFun" deviceset="GND" device=""/>
 <part name="JP2" library="SparkFun" deviceset="M01" device="SMDNS"/>
 <part name="JP3" library="SparkFun" deviceset="ARDUINO_SERIAL_PROGRAM" device="PTH"/>

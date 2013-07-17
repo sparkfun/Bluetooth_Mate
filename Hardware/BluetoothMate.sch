@@ -2574,6 +2574,9 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="0.4186" y="-1.0105"/>
 </polygon>
 </package>
+<package name="REVISION">
+<text x="0" y="0" size="1.778" layer="27">Revision By: </text>
+</package>
 </packages>
 <symbols>
 <symbol name="LETTER_L">
@@ -6168,6 +6171,9 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="0.6834" y="-1.65"/>
 </polygon>
 </symbol>
+<symbol name="REVISION">
+<text x="0" y="0" size="2.54" layer="94">Revision By: </text>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="FRAME-LETTER" prefix="FRAME">
@@ -6202,6 +6208,18 @@ Standard 8.5x11 US Letter frame</description>
 </technologies>
 </device>
 <device name="L" package="OSHW-LOGO-L">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="REVISION">
+<gates>
+<gate name="G$1" symbol="REVISION" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="REVISION">
 <technologies>
 <technology name=""/>
 </technologies>
@@ -6260,12 +6278,14 @@ Standard 8.5x11 US Letter frame</description>
 <part name="TP1" library="SparkFun" deviceset="TEST-POINT" device="3X5" value=""/>
 <part name="JP1" library="abes" deviceset="FIDUCIAL" device="1X2.5"/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S" value="OSHW-LOGOS"/>
+<part name="U$2" library="SparkFun-Aesthetics" deviceset="REVISION" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="154.94" y="7.62" size="2.54" layer="97">J. Lindblom, T. Klopfenstein</text>
+<text x="171.704" y="11.43" size="2.54" layer="97">J. Lindblom</text>
 <text x="238.76" y="7.62" size="2.54" layer="97">v16</text>
+<text x="176.276" y="6.858" size="2.54" layer="97">T. Klopfenstein</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -6323,6 +6343,7 @@ Standard 8.5x11 US Letter frame</description>
 <instance part="TP1" gate="G$1" x="91.44" y="167.64"/>
 <instance part="JP1" gate="G$1" x="243.84" y="30.48"/>
 <instance part="LOGO1" gate="G$1" x="134.62" y="10.16"/>
+<instance part="U$2" gate="G$1" x="148.844" y="7.366"/>
 </instances>
 <busses>
 </busses>

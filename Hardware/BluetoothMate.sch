@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.4">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6279,6 +6279,7 @@ Standard 8.5x11 US Letter frame</description>
 <part name="JP1" library="abes" deviceset="FIDUCIAL" device="1X2.5"/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S" value="OSHW-LOGOS"/>
 <part name="U$2" library="SparkFun-Aesthetics" deviceset="REVISION" device=""/>
+<part name="JP4" library="abes" deviceset="FIDUCIAL" device="1X2.5"/>
 </parts>
 <sheets>
 <sheet>
@@ -6341,9 +6342,10 @@ Standard 8.5x11 US Letter frame</description>
 </instance>
 <instance part="JP3" gate="G$1" x="33.02" y="88.9"/>
 <instance part="TP1" gate="G$1" x="91.44" y="167.64"/>
-<instance part="JP1" gate="G$1" x="243.84" y="30.48"/>
+<instance part="JP1" gate="G$1" x="243.84" y="27.94"/>
 <instance part="LOGO1" gate="G$1" x="134.62" y="10.16"/>
 <instance part="U$2" gate="G$1" x="148.844" y="7.366"/>
+<instance part="JP4" gate="G$1" x="243.84" y="33.02"/>
 </instances>
 <busses>
 </busses>

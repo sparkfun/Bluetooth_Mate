@@ -13,9 +13,9 @@ Repository Contents
 
 Product Versions
 ----------------
-* [WRL-10393](https://www.sparkfun.com/products/10393)- Bluetooth Mate Silver: RN-42 module
+* [WRL-12576](https://www.sparkfun.com/products/12576)- Bluetooth Mate Silver: RN-42 module
 * [WRL-09358](https://www.sparkfun.com/products/9358)- Bluetooth Mate Gold: RN-41 module
-
+* [WRL-10393](https://www.sparkfun.com/products/10393)- Bluetooth Mate Silver: RN-42 module (RETIRED)
 
 License Information
 -------------------

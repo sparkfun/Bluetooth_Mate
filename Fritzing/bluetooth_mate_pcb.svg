@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="158.40001"
+   height="59.400002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="bluetooth_mate_pcb.svg">
+  <defs
+     id="defs4">
+    <style
+       id="style2991"
+       type="text/css">
+path.l1 {stroke:#c83232; fill:#c83232; fill-opacity:1; }
+line.l1 {stroke:#c83232; fill:none; }
+circle.l1 {stroke:#c83232; fill:none; }
+circle.j1 {fill:#c83232; }
+rect.l1 {fill:#c83232; }
+text.l1 {font-family:sans-serif; fill:#c83232; }
+polygon.l1 {fill:#c83232; }
+path.l18 {stroke:#32c832; fill:#32c832; fill-opacity:1; }
+line.l18 {stroke:#32c832; fill:none; }
+circle.l18 {stroke:#32c832; fill:none; }
+circle.j18 {fill:#32c832; }
+rect.l18 {fill:#32c832; }
+text.l18 {font-family:sans-serif; fill:#32c832; }
+polygon.l18 {fill:#32c832; }
+path.l20 {stroke:#c8c832; fill:#c8c832; fill-opacity:1; }
+line.l20 {stroke:#c8c832; fill:none; }
+circle.l20 {stroke:#c8c832; fill:none; }
+circle.j20 {fill:#c8c832; }
+rect.l20 {fill:#c8c832; }
+text.l20 {font-family:sans-serif; fill:#c8c832; }
+polygon.l20 {fill:#c8c832; }
+circle.j0 {fill:#ffffff; }
+</style>
+    <style
+       id="style3935"
+       type="text/css">
+path.l20 {stroke:#c8c832; fill:#c8c832; fill-opacity:1; }
+line.l20 {stroke:#c8c832; fill:none; }
+circle.l20 {stroke:#c8c832; fill:none; }
+circle.j20 {fill:#c8c832; }
+rect.l20 {fill:#c8c832; }
+text.l20 {font-family:sans-serif; fill:#c8c832; }
+polygon.l20 {fill:#c8c832; }
+path.l21 {stroke:#ffffff; fill:#ffffff; fill-opacity:1; }
+line.l21 {stroke:#ffffff; fill:none; }
+circle.l21 {stroke:#ffffff; fill:none; }
+circle.j21 {fill:#ffffff; }
+rect.l21 {fill:#ffffff; }
+text.l21 {font-family:sans-serif; fill:#ffffff; }
+polygon.l21 {fill:#ffffff; }
+circle.j0 {fill:#ffffff; }
+</style>
+    <style
+       id="style14048"
+       type="text/css">
+path.l17 {stroke:#32c832; fill:#32c832; fill-opacity:1; }
+line.l17 {stroke:#32c832; fill:none; }
+circle.l17 {stroke:#32c832; fill:none; }
+circle.j17 {fill:#32c832; }
+rect.l17 {fill:#32c832; }
+text.l17 {font-family:sans-serif; fill:#32c832; }
+polygon.l17 {fill:#32c832; }
+path.l20 {stroke:#c8c832; fill:#c8c832; fill-opacity:1; }
+line.l20 {stroke:#c8c832; fill:none; }
+circle.l20 {stroke:#c8c832; fill:none; }
+circle.j20 {fill:#c8c832; }
+rect.l20 {fill:#c8c832; }
+text.l20 {font-family:sans-serif; fill:#c8c832; }
+polygon.l20 {fill:#c8c832; }
+circle.j0 {fill:#ffffff; }
+</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="126.21388"
+     inkscape:cy="42.187738"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="in"
+       spacingx="0.1in"
+       spacingy="0.1in"
+       originx="-6.495in"
+       originy="-2.945in" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="silkscreen"
+     style="display:inline"
+     transform="translate(-584.55,-1295.55)">
+    <g
+       id="silkscreen">
+      <g
+         id="g5531">
+        <g
+           id="surface0"
+           transform="matrix(3.5433071,0,0,3.5433071,585,1354.5)">
+          <path
+             id="path3938"
+             d="m 34.176091,-1.143487 -0.1144,-0.114397 m 0,0 -0.228794,0 m 0,0 -0.114397,0.114397 m 0,0 0,0.114396 m 0,0 0.114397,0.1144 m 0,0 0.228794,0 m 0,0 0.1144,0.114397 m 0,0 0,0.114397 m 0,0 -0.1144,0.114397 m 0,0 -0.228794,0 m 0,0 -0.114397,-0.114397 m 0.862813,-0.45759 0,0.45759 m 0,0 0.114396,0.114397 m -0.228793,-0.457591 0.228793,0 m 0.384547,0 0.228794,0 m 0,0 0.1144,0.1144 m 0,0 0,0.343191 m 0,0 -0.343194,0 m 0,0 -0.114397,-0.114397 m 0,0 0.114397,-0.114397 m 0,0 0.343194,0 m 0.405222,-0.343193 0,0.45759 m 0,0 0.114397,0.114397 m -0.228794,-0.457591 0.228794,0"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.127;stroke-linecap:round"
+             class="l21"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3940"
+             d="m 33.541091,-15.875488 -0.1144,-0.114396 m 0,0 -0.228794,0 m 0,0 -0.114397,0.114396 m 0,0 0,0.457591 m 0,0 0.114397,0.114397 m 0,0 0.228794,0 m 0,0 0.1144,-0.114397 m 0.405222,0.114397 0.228793,0 m 0,0 0.1144,-0.114397 m 0,0 0,-0.228794 m 0,0 -0.1144,-0.1144 m 0,0 -0.228793,0 m 0,0 -0.114397,0.1144 m 0,0 0,0.228794 m 0,0 0.114397,0.114397 m 0.634018,0 0,-0.457591 m 0,0 0.343191,0 m 0,0 0.1144,0.1144 m 0,0 0,0.343191 m 0.290825,0 0,-0.457591 m 0,0 0.34319,0 m 0,0 0.114401,0.1144 m 0,0 0,0.343191 m 0.634015,0 -0.228794,0 m 0,0 -0.114396,-0.114397 m 0,0 0,-0.228794 m 0,0 0.114396,-0.1144 m 0,0 0.228794,0 m 0,0 0.1144,0.1144 m 0,0 0,0.114397 m 0,0 -0.45759,0 m 1.206006,-0.228797 -0.343194,0 m 0,0 -0.114397,0.1144 m 0,0 0,0.228794 m 0,0 0.114397,0.114397 m 0,0 0.343194,0 m 0.405222,-0.571988 0,0.457591 m 0,0 0.114397,0.114397 m -0.228794,-0.457591 0.228794,0"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.127;stroke-linecap:round"
+             class="l21"
+             inkscape:connector-curvature="0" />
+          <line
+             id="line3942"
+             style="fill:none;stroke:#ffffff;stroke-width:0.25400001;stroke-linecap:round;stroke-opacity:1"
+             y2="-16.51"
+             x2="0"
+             y1="0"
+             x1="0"
+             class="l20" />
+          <line
+             id="line3944"
+             style="fill:none;stroke:#ffffff;stroke-width:0.25400001;stroke-linecap:round;stroke-opacity:1"
+             y2="-16.51"
+             x2="44.450001"
+             y1="-16.51"
+             x1="0"
+             class="l20" />
+          <line
+             id="line3946"
+             style="fill:none;stroke:#ffffff;stroke-width:0.25400001;stroke-linecap:round;stroke-opacity:1"
+             y2="0"
+             x2="44.450001"
+             y1="-16.51"
+             x1="44.450001"
+             class="l20" />
+          <line
+             id="line3948"
+             style="fill:none;stroke:#ffffff;stroke-width:0.25400001;stroke-linecap:round;stroke-opacity:1"
+             y2="0"
+             x2="0"
+             y1="0"
+             x1="44.450001"
+             class="l20" />
+          <g
+             id="g3950">
+            <title
+               id="title3952">PART C1</title>
+            <line
+               id="line3954"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-10.23"
+               x2="27.98"
+               y1="-10.23"
+               x1="29.48"
+               class="l21" />
+            <line
+               id="line3956"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-12.63"
+               x2="27.98"
+               y1="-10.23"
+               x1="27.98"
+               class="l21" />
+            <line
+               id="line3958"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-12.63"
+               x2="29.48"
+               y1="-12.63"
+               x1="27.98"
+               class="l21" />
+            <line
+               id="line3960"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-10.23"
+               x2="32.580002"
+               y1="-10.23"
+               x1="31.48"
+               class="l21" />
+            <line
+               id="line3962"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-10.63"
+               x2="32.98"
+               y1="-10.23"
+               x1="32.580002"
+               class="l21" />
+            <line
+               id="line3964"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-12.23"
+               x2="32.98"
+               y1="-10.63"
+               x1="32.98"
+               class="l21" />
+            <line
+               id="line3966"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-12.63"
+               x2="32.580002"
+               y1="-12.23"
+               x1="32.98"
+               class="l21" />
+            <line
+               id="line3968"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-12.63"
+               x2="31.48"
+               y1="-12.63"
+               x1="32.580002"
+               class="l21" />
+          </g>
+          <g
+             id="g3970">
+            <title
+               id="title3972">PART C3</title>
+            <line
+               id="line3974"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-0.70499998"
+               x2="27.98"
+               y1="-0.70499998"
+               x1="29.48"
+               class="l21" />
+            <line
+               id="line3976"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-3.105"
+               x2="27.98"
+               y1="-0.70499998"
+               x1="27.98"
+               class="l21" />
+            <line
+               id="line3978"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-3.105"
+               x2="29.48"
+               y1="-3.105"
+               x1="27.98"
+               class="l21" />
+            <line
+               id="line3980"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-0.70499998"
+               x2="32.580002"
+               y1="-0.70499998"
+               x1="31.48"
+               class="l21" />
+            <line
+               id="line3982"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-1.105"
+               x2="32.98"
+               y1="-0.70499998"
+               x1="32.580002"
+               class="l21" />
+            <line
+               id="line3984"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-2.7049999"
+               x2="32.98"
+               y1="-1.105"
+               x1="32.98"
+               class="l21" />
+            <line
+               id="line3986"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-3.105"
+               x2="32.580002"
+               y1="-2.7049999"
+               x1="32.98"
+               class="l21" />
+            <line
+               id="line3988"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-3.105"
+               x2="31.48"
+               y1="-3.105"
+               x1="32.580002"
+               class="l21" />
+          </g>
+          <g
+             id="g3990">
+            <title
+               id="title3992">PART C4</title>
+            <line
+               id="line3994"
+               style="fill:none;stroke:#ffffff;stroke-width:0.55879998;stroke-linecap:round"
+               y2="-4.3484998"
+               x2="30.48"
+               y1="-4.2874999"
+               x1="30.48"
+               class="l21" />
+          </g>
+          <g
+             id="g3996">
+            <title
+               id="title3998">PART D1</title>
+            <line
+               id="line4000"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-1.905"
+               x2="34.967999"
+               y1="-1.4450001"
+               x1="34.967999"
+               class="l21" />
+            <line
+               id="line4002"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-1.905"
+               x2="34.967999"
+               y1="-2.365"
+               x1="34.967999"
+               class="l21" />
+            <line
+               id="line4004"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-1.6712"
+               x2="34.658001"
+               y1="-1.905"
+               x1="34.967999"
+               class="l21" />
+            <line
+               id="line4006"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-2.1234"
+               x2="34.658001"
+               y1="-1.9304"
+               x1="34.952599"
+               class="l21" />
+          </g>
+          <g
+             id="g4008">
+            <title
+               id="title4010">PART D2</title>
+            <line
+               id="line4012"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-14.605"
+               x2="35.095001"
+               y1="-14.145"
+               x1="35.095001"
+               class="l21" />
+            <line
+               id="line4014"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-14.605"
+               x2="35.095001"
+               y1="-15.065"
+               x1="35.095001"
+               class="l21" />
+            <line
+               id="line4016"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-14.3712"
+               x2="34.785"
+               y1="-14.605"
+               x1="35.095001"
+               class="l21" />
+            <line
+               id="line4018"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-14.8234"
+               x2="34.785"
+               y1="-14.6304"
+               x1="35.079601"
+               class="l21" />
+          </g>
+          <g
+             id="g4020">
+            <title
+               id="title4022">PART FRAME1</title>
+          </g>
+          <g
+             id="g4024">
+            <title
+               id="title4026">PART JP1</title>
+          </g>
+          <g
+             id="g4028">
+            <title
+               id="title4030">PART JP2</title>
+          </g>
+          <g
+             id="g4032">
+            <title
+               id="title4034">PART JP3</title>
+          </g>
+          <g
+             id="g4036">
+            <title
+               id="title4038">PART JP4</title>
+          </g>
+          <g
+             id="g4040">
+            <title
+               id="title4042">PART LOGO1</title>
+          </g>
+          <g
+             id="g4044">
+            <title
+               id="title4046">PART Q1</title>
+            <line
+               id="line4048"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-6.9200001"
+               x2="36.325001"
+               y1="-6.9200001"
+               x1="35.724998"
+               class="l21" />
+            <line
+               id="line4050"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-7.7199998"
+               x2="36.325001"
+               y1="-6.9200001"
+               x1="36.325001"
+               class="l21" />
+            <line
+               id="line4052"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-6.9200001"
+               x2="33.525002"
+               y1="-6.9200001"
+               x1="34.125"
+               class="l21" />
+            <line
+               id="line4054"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-7.7199998"
+               x2="33.525002"
+               y1="-6.9200001"
+               x1="33.525002"
+               class="l21" />
+          </g>
+          <g
+             id="g4056">
+            <title
+               id="title4058">PART Q2</title>
+            <line
+               id="line4060"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-6.9200001"
+               x2="40.77"
+               y1="-6.9200001"
+               x1="40.169998"
+               class="l21" />
+            <line
+               id="line4062"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-7.7199998"
+               x2="40.77"
+               y1="-6.9200001"
+               x1="40.77"
+               class="l21" />
+            <line
+               id="line4064"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-6.9200001"
+               x2="37.970001"
+               y1="-6.9200001"
+               x1="38.57"
+               class="l21" />
+            <line
+               id="line4066"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-7.7199998"
+               x2="37.970001"
+               y1="-6.9200001"
+               x1="37.970001"
+               class="l21" />
+          </g>
+          <g
+             id="g4068">
+            <title
+               id="title4070">PART R1</title>
+            <rect
+               id="rect4072"
+               height="0.76200002"
+               width="0.45719999"
+               y="-2.286"
+               x="39.141399"
+               class="l21"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g4074">
+            <title
+               id="title4076">PART R2</title>
+            <rect
+               id="rect4078"
+               height="0.76200002"
+               width="0.45719999"
+               y="-12.446"
+               x="39.141399"
+               class="l21"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g4080">
+            <title
+               id="title4082">PART R3</title>
+            <rect
+               id="rect4084"
+               transform="matrix(-1,0,0,-1,69.85,-20.32)"
+               height="0.76200002"
+               width="0.45719999"
+               y="-10.541"
+               x="34.6964"
+               class="l21"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g4086">
+            <title
+               id="title4088">PART R4</title>
+            <rect
+               id="rect4090"
+               transform="matrix(-1,0,0,-1,70.104,-8.636)"
+               height="0.76200002"
+               width="0.45719999"
+               y="-4.6989999"
+               x="34.823399"
+               class="l21"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g4092">
+            <title
+               id="title4094">PART R5</title>
+            <rect
+               id="rect4096"
+               height="0.76200002"
+               width="0.45719999"
+               y="-14.986"
+               x="39.141399"
+               class="l21"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g4098">
+            <title
+               id="title4100">PART R6</title>
+            <rect
+               id="rect4102"
+               transform="matrix(-1,0,0,-1,69.85,-24.13)"
+               height="0.76200002"
+               width="0.45719999"
+               y="-12.446"
+               x="34.6964"
+               class="l21"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g4104">
+            <title
+               id="title4106">PART R7</title>
+            <rect
+               id="rect4108"
+               transform="matrix(-1,0,0,-1,78.74,-20.32)"
+               height="0.76200002"
+               width="0.45719999"
+               y="-10.541"
+               x="39.141399"
+               class="l21"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g4110">
+            <title
+               id="title4112">PART R8</title>
+            <rect
+               id="rect4114"
+               height="0.76200002"
+               width="0.45719999"
+               y="-4.6989999"
+               x="39.141399"
+               class="l21"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g4116">
+            <title
+               id="title4118">PART R9</title>
+            <rect
+               id="rect4120"
+               transform="matrix(-1,0,0,-1,60.96,-29.21)"
+               height="0.76200002"
+               width="0.45719999"
+               y="-14.986"
+               x="30.2514"
+               class="l21"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g4122">
+            <title
+               id="title4124">PART SJ1</title>
+          </g>
+          <g
+             id="g4126">
+            <title
+               id="title4128">PART TP1</title>
+          </g>
+          <g
+             id="g4130">
+            <title
+               id="title4132">PART U$1</title>
+          </g>
+          <g
+             id="g4134">
+            <title
+               id="title4136">PART U$2</title>
+          </g>
+          <g
+             id="g4138">
+            <title
+               id="title4140">PART U1</title>
+            <line
+               id="line4142"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-14.614"
+               x2="6.3260002"
+               y1="-14.614"
+               x1="8.026"
+               class="l21" />
+            <line
+               id="line4144"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-1.414"
+               x2="6.3260002"
+               y1="-1.414"
+               x1="8.026"
+               class="l21" />
+            <line
+               id="line4146"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-13.614"
+               x2="25.926001"
+               y1="-14.614"
+               x1="25.926001"
+               class="l21" />
+            <line
+               id="line4148"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-14.614"
+               x2="24.926001"
+               y1="-14.614"
+               x1="25.926001"
+               class="l21" />
+            <line
+               id="line4150"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-2.414"
+               x2="25.926001"
+               y1="-1.414"
+               x1="25.926001"
+               class="l21" />
+            <line
+               id="line4152"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-1.414"
+               x2="24.926001"
+               y1="-1.414"
+               x1="25.926001"
+               class="l21" />
+            <line
+               id="line4154"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-2.414"
+               x2="0.126"
+               y1="-1.414"
+               x1="0.126"
+               class="l21" />
+            <line
+               id="line4156"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-1.414"
+               x2="1.126"
+               y1="-1.414"
+               x1="0.126"
+               class="l21" />
+            <line
+               id="line4158"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-13.614"
+               x2="0.126"
+               y1="-14.614"
+               x1="0.126"
+               class="l21" />
+            <line
+               id="line4160"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-14.614"
+               x2="1.126"
+               y1="-14.614"
+               x1="0.126"
+               class="l21" />
+          </g>
+          <g
+             id="g4162">
+            <title
+               id="title4164">PART U3</title>
+            <line
+               id="line4166"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-8.0494003"
+               x2="29.0576"
+               y1="-7.1905999"
+               x1="29.0576"
+               class="l21" />
+            <line
+               id="line4168"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-7.1905999"
+               x2="31.902399"
+               y1="-8.0494003"
+               x1="31.902399"
+               class="l21" />
+            <line
+               id="line4170"
+               style="fill:none;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round"
+               y2="-6.8095999"
+               x2="30.211599"
+               y1="-6.8095999"
+               x1="30.7484"
+               class="l21" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Copper"
+     style="display:inline"
+     transform="translate(-584.55,-1295.55)">
+    <g
+       id="g4316"
+       transform="matrix(3.5433071,0,0,3.5433071,665.77957,1354.95)">
+      <g
+         inkscape:label="#g14815"
+         id="copper1"
+         style="fill:#f7bd13;fill-opacity:1">
+        <g
+           id="copper0"
+           inkscape:label="#g14806"
+           style="fill:#f7bd13;fill-opacity:1">
+          <path
+             id="circle14091"
+             transform="matrix(0.28222222,0,0,0.28222222,-22.924788,-16.764)"
+             d="m 96.3125,6.125 c -1.839108,0 -3.34375,1.4733917 -3.34375,3.3125 0,1.839108 1.504642,3.34375 3.34375,3.34375 1.839108,0 3.3125,-1.504642 3.3125,-3.34375 0,-1.8391083 -1.473392,-3.3125 -3.3125,-3.3125 z m 0,1.53125 c 0.994113,0 1.78125,0.7871374 1.78125,1.78125 0,0.994113 -0.787137,1.8125 -1.78125,1.8125 -0.994113,0 -1.8125,-0.818387 -1.8125,-1.8125 0,-0.9941126 0.818387,-1.78125 1.8125,-1.78125 z"
+             style="fill:#f7bd13;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="circle14099"
+             d="m 153.4375,3.875 c -1.83911,0 -3.3125,1.4733917 -3.3125,3.3125 0,1.8391083 1.47339,3.34375 3.3125,3.34375 1.83911,0 3.34375,-1.5046417 3.34375,-3.34375 0,-1.8391083 -1.50464,-3.3125 -3.34375,-3.3125 z m 0,1.53125 c 0.99411,0 1.8125,0.7871374 1.8125,1.78125 0,0.9941126 -0.81839,1.8125 -1.8125,1.8125 -0.99411,0 -1.78125,-0.8183874 -1.78125,-1.8125 0,-0.9941126 0.78714,-1.78125 1.78125,-1.78125 z"
+             style="fill:#f7bd13;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             transform="matrix(0.28222222,0,0,0.28222222,-22.924788,-16.764)" />
+          <path
+             id="circle14103"
+             transform="matrix(0.28222222,0,0,0.28222222,-22.924788,-16.764)"
+             d="m 153.4375,12.875 c -1.83911,0 -3.3125,1.473392 -3.3125,3.3125 0,1.839108 1.47339,3.34375 3.3125,3.34375 1.83911,0 3.34375,-1.504642 3.34375,-3.34375 0,-1.839108 -1.50464,-3.3125 -3.34375,-3.3125 z m 0,1.53125 c 0.99411,0 1.8125,0.787137 1.8125,1.78125 0,0.994113 -0.81839,1.8125 -1.8125,1.8125 -0.99411,0 -1.78125,-0.818387 -1.78125,-1.8125 0,-0.994113 0.78714,-1.78125 1.78125,-1.78125 z"
+             style="fill:#f7bd13;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="circle14107"
+             transform="matrix(0.28222222,0,0,0.28222222,-22.924788,-16.764)"
+             d="m 153.4375,21.875 c -1.83911,0 -3.3125,1.473392 -3.3125,3.3125 0,1.839108 1.47339,3.34375 3.3125,3.34375 1.83911,0 3.34375,-1.504642 3.34375,-3.34375 0,-1.839108 -1.50464,-3.3125 -3.34375,-3.3125 z m 0,1.53125 c 0.99411,0 1.8125,0.787137 1.8125,1.78125 0,0.994113 -0.81839,1.8125 -1.8125,1.8125 -0.99411,0 -1.78125,-0.818387 -1.78125,-1.8125 0,-0.994113 0.78714,-1.78125 1.78125,-1.78125 z"
+             style="fill:#f7bd13;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="circle14111"
+             d="m 153.4375,30.875 c -1.83911,0 -3.3125,1.473392 -3.3125,3.3125 0,1.839108 1.47339,3.34375 3.3125,3.34375 1.83911,0 3.34375,-1.504642 3.34375,-3.34375 0,-1.839108 -1.50464,-3.3125 -3.34375,-3.3125 z m 0,1.53125 c 0.99411,0 1.8125,0.787137 1.8125,1.78125 0,0.994113 -0.81839,1.8125 -1.8125,1.8125 -0.99411,0 -1.78125,-0.818387 -1.78125,-1.8125 0,-0.994113 0.78714,-1.78125 1.78125,-1.78125 z"
+             style="fill:#f7bd13;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             transform="matrix(0.28222222,0,0,0.28222222,-22.924788,-16.764)" />
+          <path
+             id="circle14115"
+             transform="matrix(0.28222222,0,0,0.28222222,-22.924788,-16.764)"
+             d="m 153.4375,39.875 c -1.83911,0 -3.3125,1.473392 -3.3125,3.3125 0,1.839108 1.47339,3.34375 3.3125,3.34375 1.83911,0 3.34375,-1.504642 3.34375,-3.34375 0,-1.839108 -1.50464,-3.3125 -3.34375,-3.3125 z m 0,1.53125 c 0.99411,0 1.8125,0.787137 1.8125,1.78125 0,0.994113 -0.81839,1.8125 -1.8125,1.8125 -0.99411,0 -1.78125,-0.818387 -1.78125,-1.8125 0,-0.994113 0.78714,-1.78125 1.78125,-1.78125 z"
+             style="fill:#f7bd13;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="circle14119"
+             transform="matrix(0.28222222,0,0,0.28222222,-22.924788,-16.764)"
+             d="m 153.4375,48.875 c -1.83911,0 -3.3125,1.473392 -3.3125,3.3125 0,1.839108 1.47339,3.34375 3.3125,3.34375 1.83911,0 3.34375,-1.504642 3.34375,-3.34375 0,-1.839108 -1.50464,-3.3125 -3.34375,-3.3125 z m 0,1.53125 c 0.99411,0 1.8125,0.787137 1.8125,1.78125 0,0.994113 -0.81839,1.8125 -1.8125,1.8125 -0.99411,0 -1.78125,-0.818387 -1.78125,-1.8125 0,-0.994113 0.78714,-1.78125 1.78125,-1.78125 z"
+             style="fill:#f7bd13;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

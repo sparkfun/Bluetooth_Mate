@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="63.205601"
+   height="90.337898"
+   id="svg3914"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="bluetooth_mate_schematic.svg">
+  <defs
+     id="defs3916" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-57.272272"
+     inkscape:cy="58.833433"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3922"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="in"
+       spacingx="0.1in"
+       spacingy="0.1in"
+       originx="0.016108261in"
+       originy="-0.0056641239in" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3919">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.387492,531.55664)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+       d="m 71.1875,-495.641 18,0"
+       id="path17692"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.84455323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect18466"
+       width="30.740808"
+       height="71.226288"
+       x="89.587593"
+       y="-512.86731" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="91.676392"
+       y="-492.07166"
+       id="text18468"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18470"
+         x="91.676392"
+         y="-492.07166">RTS-O</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text18478"
+       y="-483.07166"
+       x="91.513618"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="-483.07166"
+         x="91.513618"
+         id="tspan18480"
+         sodipodi:role="line">TX-O</tspan><tspan
+         y="-470.57166"
+         x="91.513618"
+         sodipodi:role="line"
+         id="tspan18686" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="91.676392"
+       y="-474.07166"
+       id="text18488"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18490"
+         x="91.676392"
+         y="-474.07166">RX-I</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text18498"
+       y="-465.07166"
+       x="91.513618"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="-465.07166"
+         x="91.513618"
+         id="tspan18500"
+         sodipodi:role="line">VCC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="91.676392"
+       y="-456.07166"
+       id="text18508"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18510"
+         x="91.676392"
+         y="-456.07166">CTS-I</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text18518"
+       y="-447.07166"
+       x="91.676392"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="-447.07166"
+         x="91.676392"
+         id="tspan18520"
+         sodipodi:role="line">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="90.087234"
+       y="-523.95898"
+       id="text18692"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="90.087234"
+         y="-523.95898"
+         id="tspan18696"
+         style="line-height:100%">Bluetooth</tspan><tspan
+         sodipodi:role="line"
+         x="90.087234"
+         y="-513.95898"
+         style="line-height:100%"
+         id="tspan4897">Mate</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3889"
+       d="m 71.1875,-486.64832 18,0"
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+       d="m 71.125,-476.96601 18,0"
+       id="path3895"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3901"
+       d="m 71.0625,-467.96601 18,0"
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+       d="m 71.162227,-458.96601 18,0"
+       id="path3907"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3913"
+       d="m 71.162227,-449.96601 18,0"
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 71.350273,-495.641 -0.0029,0 0,0 0,0 0,0 0,0 -0.159881,0"
+       id="path18202"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3891"
+       d="m 71.350273,-486.64832 -0.0029,0 0,0 0,0 0,0 0,0 -0.159881,0"
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 71.287773,-476.96601 -0.0029,0 0,0 0,0 0,0 0,0 -0.159881,0"
+       id="path3897"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3903"
+       d="m 71.225273,-467.96601 -0.0029,0 0,0 0,0 0,0 0,0 -0.159881,0"
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 71.325,-458.96601 -0.0029,0 0,0 0,0 0,0 0,0 -0.159881,0"
+       id="path3909"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3915"
+       d="m 71.325,-449.96601 -0.0029,0 0,0 0,0 0,0 0,0 -0.159881,0"
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4907"
+       d="m 71.1875,-504.641 18,0"
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4909"
+       y="-501.07166"
+       x="91.676392"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="-501.07166"
+         x="91.676392"
+         id="tspan4911"
+         sodipodi:role="line">PIO6</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4913"
+       d="m 71.350273,-504.641 -0.0029,0 0,0 0,0 0,0 0,0 -0.159881,0"
+       style="fill:none;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  </g>
+</svg>

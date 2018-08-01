@@ -7,8 +7,8 @@ Bluetooth Mate
    <td><a href="https://www.sparkfun.com/products/12576"><img src="https://cdn.sparkfun.com//assets/parts/9/2/2/8/12576-01.jpg" alt="Bluetooth Mate Silver: RN-42 module"></a></td>
   </tr>
   <tr align="center">
-    <td>[<a href="https://www.sparkfun.com/products/9358">Bluetooth Mate Gold: RN-41 module (WRL-09358)</a>]</td>
-    <td>[<a href="https://www.sparkfun.com/products/12576">Bluetooth Mate Silver: RN-42 module (WRL-12576)</a>]</td>
+    <td><a href="https://www.sparkfun.com/products/9358">Bluetooth Mate Gold: RN-41 module (WRL-09358)</a></td>
+    <td><a href="https://www.sparkfun.com/products/12576">Bluetooth Mate Silver: RN-42 module (WRL-12576)</a></td>
   </tr>
 </table>
 

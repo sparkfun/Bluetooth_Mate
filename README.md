@@ -22,6 +22,7 @@ Repository Contents
 Documentation
 --------------
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/using-the-bluesmirf)** - Basic hookup guide for the BlueSMiRF and Bluetooth Mate.
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
 Product Versions
 ----------------
